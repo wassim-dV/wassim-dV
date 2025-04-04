@@ -1,4 +1,5 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddev&show_icons=true&theme=radical)
 
 <!--
 **wassim-dV/wassim-dV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
